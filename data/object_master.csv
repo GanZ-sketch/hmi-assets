@@ -1,1 +1,9 @@
-
+ObjectID,Name,Texture,IsObstacle,Width,Height,Description
+0,Empty,grass0,0,1,1,空き地
+101,Flower,flower,0,1,1,花
+102,Bush,bush,1,2,2,茂み
+103,Tree,bush,1,3,3,木
+201,Table,grass0,1,2,2,テーブル
+202,Carpet,grass0,0,1,1,絨毯
+301,House,house,1,3,3,家
+302,Ven,ven,1,1,2,自販機
