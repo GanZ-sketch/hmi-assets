@@ -1,8 +1,8 @@
 id,word,description,probability
-1,冒険,MemoryCore: 冒険の思い出,0.3
-2,発見,MemoryCore: 発見の喜び,0.25
-3,探索,MemoryCore: 探索への好奇心,0.2
-4,古い,MemoryCore: 古い時代,0.15
-5,緑,MemoryCore: 自然の息吹,0.1
-6,静寂,MemoryCore: 静寂の美しさ,0.15
-7,時間,MemoryCore: 時の流れ,0.2
+1,冒険,MemoryCore: 冒険の思い出,0.005
+2,発見,MemoryCore: 発見の喜び,0.005
+3,探索,MemoryCore: 探索への好奇心,0.005
+4,古い,MemoryCore: 古い時代,0.005
+5,緑,MemoryCore: 自然の息吹,0.005
+6,静寂,MemoryCore: 静寂の美しさ,0.005
+7,時間,MemoryCore: 時の流れ,0.005
